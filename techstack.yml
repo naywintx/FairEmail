@@ -1,0 +1,258 @@
+repo_name: naywintx/FairEmail
+report_id: 213b6c3679acb0d15ce96a68c188718b
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-21T02:38:36+00:00'
+requested_by: M66B
+provider: github
+branch: master
+detected_tools_count: 21
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/naywintx/FairEmail
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/naywintx/FairEmail
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/naywintx/FairEmail
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/naywintx/FairEmail
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  version: '33.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2022-09-26 07:01:55.000000000 Z
+- name: RxJava
+  description: Reactive Extensions for the JVM
+  website_url: https://github.com/ReactiveX/RxJava
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2190/6407041.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2019-07-28 10:44:45.000000000 Z
+- name: Bugsnag
+  description: Bugsnag provides production error monitoring and management for front-end,
+    mobile and back-end applications
+  website_url: https://www.bugsnag.com
+  open_source: false
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/150/square-logo-small-midnight.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2022-06-23 18:23:15.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/naywintx/FairEmail
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/naywintx/FairEmail
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2021-09-03 08:35:57.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  version: '13.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2022-09-26 07:01:55.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/naywintx/FairEmail
+  detection_source: Repo Metadata
+- name: com.bugsnag:bugsnag-android
+  description: Official Bugsnag notifier for Android applications
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2022-09-27 11:30:35.000000000 Z
+- name: com.neovisionaries:nv-websocket-client
+  description: WebSocket client implementation in Java
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2022-10-13 06:51:07.000000000 Z
+- name: dnsjava:dnsjava
+  description: Dnsjava is an implementation of DNS in Java
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2022-05-10 09:11:37.000000000 Z
+- name: io.reactivex.rxjava2:rxjava
+  description: Reactive Extensions for Java
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2022-10-06 09:30:34.000000000 Z
+- name: net.sourceforge.cssparser:cssparser
+  description: A CSS parser which implements SAC
+  license: LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2022-08-13 13:19:25.000000000 Z
+- name: org.apache.commons:commons-compress
+  description: Apache Commons Compress software defines an API for working with compression
+    and archive formats
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2022-10-06 09:30:34.000000000 Z
+- name: org.apache.poi:poi-scratchpad
+  description: Apache POI - Java API To Access Microsoft Format Files
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2022-03-11 11:20:39.000000000 Z
+- name: org.jsoup:jsoup
+  description: Jsoup is a Java library for working with real-world HTML
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2022-09-07 17:41:25.000000000 Z
+- name: org.reactivestreams:reactive-streams
+  description: A Protocol for Asynchronous Non-Blocking Data Sequence
+  license: MIT-0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/FairEmail/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: M66B
+  last_updated_on: 2022-10-06 09:30:34.000000000 Z
